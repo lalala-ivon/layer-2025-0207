@@ -60,6 +60,10 @@ body.en .layerWrap .layers>div .layer_3{left:5%}body.en .layerWrap .layers>div p
     /* .layers>div .layer_3{top:12%}
     .layers>div .layer_4{top:22%}
     .layers>div .layer_5{top:22%} */
+    .accounting.newTeams {
+        background-size: cover;
+    }
+    body.en .accounting.newTeams { background-size: contain;}
     .newTeam {
         background-color: rgba(255,255,255,.7);
         padding: 0;
