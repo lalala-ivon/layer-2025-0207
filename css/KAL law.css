@@ -61,11 +61,12 @@ body.en .layerWrap .layers>div .layer_3{left:5%}body.en .layerWrap .layers>div p
     .layers>div .layer_4{top:22%}
     .layers>div .layer_5{top:22%} */
     .accounting.newTeams {
-        background-size: cover;
+        /* background-size: cover; */
+        background-image: none;
     }
     body.en .accounting.newTeams { background-size: contain;}
     .newTeam {
-        background-color: rgba(255,255,255,.7);
+        
         padding: 0;
     }
     .newTeam ul {
