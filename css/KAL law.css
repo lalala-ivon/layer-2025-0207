@@ -66,8 +66,7 @@ body.en .layerWrap .layers>div .layer_3{left:5%}body.en .layerWrap .layers>div p
     }
     body.en .accounting.newTeams { background-size: contain;}
     .newTeam {
-        
-        padding: 0;
+        padding: 2% 0 4% 0;
     }
     .newTeam ul {
         width: 100%;
